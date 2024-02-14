@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Tejas Sharma
-I am Tejaswi Sharma
+### Hi there 👋 I'm Tejas!
+
+  -Reach me **Tejaswisharma477116@gmail.com**
 <!--
 **tejas09012002/tejas09012002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
