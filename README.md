@@ -2,7 +2,7 @@
 final year undergraduate student. I am passionate about Web Development and other technologies. I am a Front End Developer.
 
 - 📫 Reach me: 
-- [linkedin.com/in/sakshigupta06](https://www.linkedin.com/in/sakshigupta06/)
+- [linkedin.com/in/tejas-sharma-3ba370200/](https://www.linkedin.com/in/tejas-sharma-3ba370200/)
 - [hashnode.com/@sakshi](https://sakshi.hashnode.dev/)
 
 
