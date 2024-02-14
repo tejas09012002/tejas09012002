@@ -1,19 +1,18 @@
 ### Hi there 👋 I'm Tejas!
+final year undergraduate student. I am passionate about Web Development and other technologies. I am a Front End Developer.
 
-  
-<!--
-**tejas09012002/tejas09012002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Reach me: 
+- [twitter.com/Sakshi_0612](https://twitter.com/Sakshi_0612)
+- [linkedin.com/in/sakshigupta06](https://www.linkedin.com/in/sakshigupta06/)
+- [hashnode.com/@sakshi](https://sakshi.hashnode.dev/)
 
-** Connect With me: ** 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💬 Hobbies : Playing Cricket
+-  ⚡ Languages: C,C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+⭐️ From [Sakshi Gupta](http://www.github.com/sakshigupta06)
