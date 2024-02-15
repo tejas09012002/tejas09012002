@@ -3,7 +3,7 @@ final year undergraduate student. I am passionate about Web Development and othe
 
 - 📫 Reach me: 
 - [tejas-sharma-3ba370200/](https://www.linkedin.com/in/tejas-sharma-3ba370200/)
-- [Tejaswisharma477116@gmail.com](mail to: Tejaswisharma477116@gmail.com)
+- Tejaswisharma477116@gmail.com
 
 
 - 🔭 I’m currently working on Web Development
