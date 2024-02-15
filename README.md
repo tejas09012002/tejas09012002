@@ -2,7 +2,7 @@
 final year undergraduate student. I am passionate about Web Development and other technologies. I am a Front End Developer.
 
 - 📫 Reach me: 
-- [linkedin/in/tejas-sharma-3ba370200/](https://www.linkedin.com/in/tejas-sharma-3ba370200/)
+- [linkedin/in/tejas-sharma](https://www.linkedin.com/in/tejas-sharma-3ba370200/)
 - Tejaswisharma477116@gmail.com
 
 
