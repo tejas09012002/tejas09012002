@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Tejas!
-final year undergraduate student. I am passionate about Web Development and other technologies. I am a Front End Developer.
+final year undergraduate student. I am passionate about Web Development and other technologies. I am a MERN Developer.
 
 - 📫 Reach me: 
 - [linkedin/in/tejas-sharma](https://www.linkedin.com/in/tejas-sharma-3ba370200/)
