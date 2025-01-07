@@ -7,7 +7,6 @@ final year undergraduate student. I am passionate about Web Development and othe
 
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Data Structures and Algorithms
 - 💬 Hobbies : Playing Cricket
 -  ⚡ Languages: C,C++
 
